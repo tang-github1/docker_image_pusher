@@ -4,12 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jumpserver/redis:6.2
-jumpserver/mariadb:10.6
-jumpserver/core-ce:v3.10.11
-jumpserver/koko:v3.10.11
-jumpserver/lion:v3.10.11
-jumpserver/magnus:v3.10.11
-jumpserver/chen:v3.10.11
-jumpserver/kael:v3.10.11
-jumpserver/web:v3.10.11
+zabbix-server-mysql:centos-6.4.0
+zabbix-web-nginx-mysql:centos-6.4.0
+zabbix-java-gateway:centos-6.4.0
