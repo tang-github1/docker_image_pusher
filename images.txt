@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-lucaslorentz/caddy-docker-proxy:2.9-alpine
+seafileltd/sdoc-server:1.0-latest
