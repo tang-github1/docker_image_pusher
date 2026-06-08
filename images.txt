@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-zabbix/zabbix-web-nginx-mysql:7.2.4
+zabbix/zabbix-server-mysql:7.2.4
 
