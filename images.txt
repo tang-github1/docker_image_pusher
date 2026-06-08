@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mariadb:11.5.2
+zabbix/zabbix-web-nginx-mysql:7.2.4
 
